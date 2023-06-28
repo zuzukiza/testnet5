@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Alex Gluchowski
+N;CHARSET=UTF-8:Alex Gluchowski;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;Skalitzer Str. 85;Berlin;;10997;Germany
+EMAIL:ag@matterlabs.dev
+ORG;CHARSET=UTF-8:Matter Labs
+URL:https://matter-labs.io
+END:VCARD
